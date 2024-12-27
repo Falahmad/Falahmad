@@ -1,3 +1,4 @@
+
 # 👋 Hello, I'm Fahed Alahmad! 👨‍💻
 
 ## 🚀 Technology Leader | 🎮 Game Developer | 🐾 Entrepreneur
@@ -32,8 +33,8 @@ Welcome to my GitHub! I specialize in delivering innovative solutions and buildi
 
 ## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=falahmad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falahmad&layout=compact&theme=radical)
 
 ---
 
